@@ -1,4 +1,4 @@
-# Rails and React
+# Rails api and React authentication app
 
 Backend Ruby on Rails api for a frontend React authentication web application.
 
